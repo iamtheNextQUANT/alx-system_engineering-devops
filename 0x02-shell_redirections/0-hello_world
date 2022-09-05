@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "password"
+echo "Hello, World"
